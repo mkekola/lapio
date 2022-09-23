@@ -1,0 +1,8 @@
+Luo kansio komentorivillä ja tee siitä Git-projekti.
+Luo projektikansioosi tiedosto nimeltä tarina.txt. Lisää sinne jokin pitkä pätkä tekstiä.
+Lisää projektiin tiedosto ostoslista.txt, jonne kirjoitat, mitä tarvitset kaupasta, tai muuten vaan paljon rivejä.
+Lisää sen jälkeen vielä alikansio kouluprojektit, ja lisää sinne ainakin yksi tiedosto lapio.txt. Tulet tarvitsemaan näitä tiedostoja tulevissa tehtävissä.
+Kun olet tehnyt kaikki edellä mainitut muutokset, tee yhteensä kolme committia: yksi, jossa lisäät tarinan, toinen, jossa lisäät ostoslistan, ja kolmas, jossa lisäät kouluprojektikansion sisällön. Kirjoita commiteille kuvaavat otsikot.
+Tarkista komennolla git log, että olet luonut kolme committia.
+Muuta ostoslistalta jokin ostos, ja tee vielä yksi commit. Käytä muutoksen lisäämisessä komentoa git add -p.
+Tarkista, että kaikki commitit näkyvät git log-komennolla.
